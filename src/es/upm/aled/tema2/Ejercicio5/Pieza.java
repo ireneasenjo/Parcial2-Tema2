@@ -1,4 +1,4 @@
-package Ejercicio5;
+package es.upm.aled.tema2.Ejercicio5;
 
 import java.util.List;
 import java.util.ArrayList;
